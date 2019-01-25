@@ -1,0 +1,43 @@
+University Of Illinois at Urbana-Champaign has a place for an experiment called NCSA
+(National Center Of Supercomputing Application). there have been experiments to create browser
+a called Mosaic Browser (popular browser in 1992). they create browser use protokol www.
+finally they create own company(Netscape Communicator, now is Mozilla Firefox), and they create
+again browser called netscape navigator
+netscape recruitment brendan Eich(system Enginer), and request made programming language like java
+but for web browser
+
+
+history javascript
+dimulai dari ada project di National Center Of Supercomputing Application(NCSA) di University Of Illinois At Urbana-Champaign
+disana meneliti yang penelitiannya membuat sebuah browser yang namanya mosaic browser 1992,
+pada saat itu browser populer yang dibuat dari spesifikasi www Timbernesh ly, populer karena mendukung tag image.
+lalu peneliti2 itu membuat sebuah perusahaan yang bernama Netscape Communicator, atau yang sekarang
+dibuat mozilla. peneliti2 itu membuat kembali sebuah browser yang bernama netscape navigator, netscape ini dibuat
+lebih baik lagi dengan fitur2 dan lebih tidak memperdulikan lagi spesifikasi dari Timbernesh ly seperti menambahkan
+tag blink(yang bisa membuat tulisan berkedip), menambahkan tag formating, menambahkan scripting, cookie, dll.
+setelah beberapa waktu netscape bermaksud membuat browser ini tambah keren lagi, mau menambahkan 
+interaktifitas dari browsernya oleh karena itu netscape merekrut Brendan Eich(system engineer) diminta untuk
+membuat bahasa scripting yang seperti java tapi untuk web. lalu dia membuat bahasa baru yang seperti fitur2
+bahasa java+scheme+self, yang diberi nama mocha. karena waktu yg mepet dengan harus dirilisnya netscape 2
+maka mocha dibuat dalam waktu 10 hari dan diimplementasikan di netscape navigator lalu mocha diubah namanya
+menjadi livescript. lalu netscape mempunyai ambisi untuk melebihi microsoft, dengan mengajak sun microsystem
+dengan ide gimana kalo java dimasukan dinetscape navigator untuk menggantikan livescript, tapi netscape menolak
+karena netscape lebih teroptimasi untuk web, lalu diputuskan mengubah nama menjadi javascript. 
+karena itu microsoft panik, lalu mengoptimasi browsernya dengan membuat bahasa baru yang mencontek
+javascript yang dikasih nama jscript. lalu netscape panik, takut2 si jscipt ini yang akan menjadi standar karena 
+microsoft perusahan yang lebih besar dari netscape. lalu netscape membuat standar dengan mengajukannya ke 
+w3school tapi ternyata ditolak(sepertinya karena petinggi w3c ada timbernesh ly), lalu netscape cari2 iso ketemulah
+yang namanya ecma(europian computer manufacturing association) yang mau membuatkan standarnya dan pada 
+tahun 1996 javascript pertama kali distandarkan. kenapa harus distandarkan? supaya browser2 lain bisa menggunakan
+javascript. pada pendaftaran tidak boleh namanya javascript karena licensenya masih milih sun, lalu diubah namanya 
+menjadi ecmascript(bahkan brendan eich tidak suka dengan nama ini, dia bilang namanya seperti penyakit kulit)
+perkembangan javascript
+1997 es1
+1998 es2
+1999 es3 
+2005 ajax
+2008 es4/es harmony
+2009 es5
+2015 es6
+2016 es7
+
