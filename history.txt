@@ -40,4 +40,4 @@ perkembangan javascript
 2009 es5
 2015 es6
 2016 es7
-
+test
